@@ -5,8 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< HEAD
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
+=======
+  - enabled: 1
+    path: Assets/Scenes/ShopCounterScene.unity
+>>>>>>> 57546808800331d48a761b7ff4c4f5321aea116b
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/ForgingScene.unity
